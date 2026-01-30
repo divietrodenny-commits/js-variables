@@ -27,3 +27,11 @@ const name= 'Dennis';
 console.log(name);
 
 /* Second task */
+const number= 64;
+console.log(number)
+const text= 'stack';
+console.log(text)
+const bool= true;
+console.log(bool)
+
+
